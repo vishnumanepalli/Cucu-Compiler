@@ -1,0 +1,10 @@
+TYPE : int
+ID : main
+PAREN : (
+PAREN : )
+PAREN : {
+TYPE : char
+ID : op
+SEMI : ;
+ID : double
+ID : first

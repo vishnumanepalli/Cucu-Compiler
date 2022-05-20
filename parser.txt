@@ -1,0 +1,6 @@
+id main
+
+fun_body 
+local_var: op
+var-first
+Wrong
